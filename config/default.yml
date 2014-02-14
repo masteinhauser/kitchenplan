@@ -7,7 +7,7 @@ recipes:
     mac_os_x:
 #        - drivers::xerox550
         - osxdefaults::add_note_to_loginscreen
-        - osxdefaults::enable_auto-correct
+#        - osxdefaults::disable_auto-correct
         - osxdefaults::enable_subpixel_font_rendering_on_non-apple_lcds
         - osxdefaults::finder_small_sidebar_icon_size
         - osxdefaults::automatically_illuminate_built-in_macbook_keyboard_in_low_light
