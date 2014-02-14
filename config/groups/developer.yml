@@ -1,32 +1,33 @@
 recipes:
     global:
         - applications::git
-        - applications::wget
-        - applications::pwgen
-        - applications::xmlstarlet
-        - applications::pv
+        - applications::hipchat
         - applications::htop
-        - dotfiles::gitconfig
-        - applications::grunt-cli
-        - applications::bower
-        - applications::git-flow
-        - applications::sass
-        - applications::siege
-        - applications::nodejs
+        - applications::pv
+        - applications::pwgen
         - applications::ssh_config
+        - applications::wget
+        - applications::xmlstarlet
+        - dotfiles::gitconfig
         - dotfiles::vim
-        - applications::composer
-        - applications::postgresql
-        - applications::mysql
-        - applications::apache
-        - applications::php55
-        - dotfiles::workspace
+#        - applications::apache
+#        - applications::bower
+#        - applications::composer
+#        - applications::git-flow
+#        - applications::grunt-cli
+#        - applications::mysql
+#        - applications::nodejs
+#        - applications::php55
+#        - applications::postgresql
+#        - applications::sass
+#        - applications::siege
+#        - dotfiles::workspace
     mac_os_x:
         - applications::imageoptim
         - applications::imagealpha
         - applications::svgo
-        - applications::sublime_text_3
-        - applications::phpstorm
+#        - applications::sublime_text_3
+#        - applications::phpstorm
         - applications::watch
         - applications::gnu-tar
         - applications::sequelpro
