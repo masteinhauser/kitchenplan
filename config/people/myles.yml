@@ -55,6 +55,7 @@ attributes:
         name: Myles Steinhauser
         email: myles.steinhauser@gmail.com
     osxdefaults:
+        loginmessage: Property of Myles Steinhauser - 612 516 3335 - myles@kastlersteinhauser.com
         computername: myles-mbp
     authorization:
         sudo:

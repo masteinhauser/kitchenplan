@@ -19,5 +19,3 @@ recipes:
 attributes:
 #    drivers:
 #        xerox: 172.18.19.67
-    osxdefaults:
-        loginmessage: Property of Myles Steinhauser - 612 516 3335 - myles@kastlersteinhauser.com
