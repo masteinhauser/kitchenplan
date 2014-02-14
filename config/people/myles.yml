@@ -55,6 +55,8 @@ attributes:
     osxdefaults:
         loginmessage: Property of Myles Steinhauser - 612 516 3335 - myles@kastlersteinhauser.com
         computername: myles-mbp
+        terminal:
+            profile: Homebrew
     authorization:
         sudo:
             users:
