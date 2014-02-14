@@ -65,4 +65,4 @@ recipes:
         - applications::pidgin
         - applications::ubuntu-desktop
 attributes:
-    mysql_root_password: "password"
+#    mysql_root_password: "password"
