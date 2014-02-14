@@ -1,0 +1,6 @@
+attributes:
+    vagrant_plugins:
+        - knife-block
+        - vagrant-omnibus
+        - vagrant-hostmanager
+#        - vagrant-berkshelf
