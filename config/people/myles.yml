@@ -38,7 +38,7 @@ recipes:
         - osxdefaults::set_computer_name
 attributes:
     dotfiles:
-#        vimusers:
+        vimusers:
 #            - root
 #            - myles
         kdeploy:
