@@ -23,14 +23,14 @@ recipes:
 #        - applications::siege
 #        - dotfiles::workspace
     mac_os_x:
-        - applications::imageoptim
-        - applications::imagealpha
+#        - applications::imageoptim
+#        - applications::imagealpha
 #        - applications::svgo
 #        - applications::sublime_text_3
 #        - applications::phpstorm
         - applications::watch
         - applications::gnu-tar
-        - applications::sequelpro
+#        - applications::sequelpro
         - applications::sourcetree
         - osxdefaults::set_terminal_profile
         - osxdefaults::add_a_context_menu_item_for_showing_the_web_inspector_in_web_views
@@ -65,4 +65,3 @@ recipes:
         - applications::pidgin
         - applications::ubuntu-desktop
 attributes:
-#    mysql_root_password: "password"
