@@ -16,8 +16,6 @@ recipes:
         - applications::totalfinder
 #        - applications::spotify
         - applications::bartender
-#        - applications::hhvm
-        - skylab::default
         - sudo::default
         - applications::vagrant
 #        - osxdefaults::dock_automatically_hide_and_show_the_dock
