@@ -1,3 +1,5 @@
+recipes:
+    global:
 attributes:
     vagrant_plugins:
         - knife-block
