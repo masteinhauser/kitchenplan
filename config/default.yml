@@ -2,6 +2,7 @@ recipes:
     global:
         - applications::create_var_chef_cache
         - applications::google-chrome
+        - applications::google-hangouts
         - applications::firefox
         - applications::java
     mac_os_x:
