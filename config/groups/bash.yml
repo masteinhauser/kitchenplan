@@ -2,5 +2,5 @@ recipes:
     global:
         - applications::bash-completion
 #        - dotfiles::bash_it
-#        - dotfiles::inputrc
+        - dotfiles::inputrc
         - applications::bash
