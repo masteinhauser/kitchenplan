@@ -2,7 +2,9 @@ recipes:
     global:
 attributes:
     vagrant_plugins:
+        - chef
         - knife-block
-        - vagrant-omnibus
+        - vagrant-box-updater
         - vagrant-hostmanager
+        - vagrant-omnibus
 #        - vagrant-berkshelf
