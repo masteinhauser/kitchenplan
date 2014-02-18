@@ -9,7 +9,7 @@ recipes:
     mac_os_x:
         - sudo::default
 #        - applications::1password
-        - applications::dropbox
+#        - applications::dropbox
 #        - applications::evernote
 #        - applications::istatmenus4
 #        - applications::kaleidoscope
